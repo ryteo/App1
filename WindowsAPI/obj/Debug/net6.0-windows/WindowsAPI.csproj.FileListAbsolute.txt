@@ -1,0 +1,84 @@
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.exe
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.deps.json
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.runtimeconfig.json
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.pdb
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\DataBaseLib.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\DataBaseLib.pdb
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.AssemblyReference.cache
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsFormsApp1.DataBaseEditor.FormEditorTable1.resources
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.GenerateResource.cache
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfoInputs.cache
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfo.cs
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CoreCompileInputs.cache
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CopyComplete
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\refint\WindowsAPI.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.pdb
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.genruntimeconfig.cache
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\ref\WindowsAPI.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.MainForm.resources
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.exe
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.deps.json
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.runtimeconfig.json
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\bin\Debug\net6.0-windows\DataBaseLib.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.AssemblyReference.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsFormsApp1.DataBaseEditor.FormEditorTable1.resources
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.MainForm.resources
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.GenerateResource.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfoInputs.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfo.cs
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CoreCompileInputs.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CopyComplete
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\refint\WindowsAPI.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.genruntimeconfig.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\WindowsAPI\obj\Debug\net6.0-windows\ref\WindowsAPI.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.exe
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.deps.json
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.runtimeconfig.json
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\bin\Debug\net6.0-windows\DataBaseLib.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.AssemblyReference.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsFormsApp1.DataBaseEditor.FormEditorTable1.resources
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.MainForm.resources
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.GenerateResource.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfoInputs.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfo.cs
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CoreCompileInputs.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CopyComplete
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\refint\WindowsAPI.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.genruntimeconfig.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\WindowsAPI\obj\Debug\net6.0-windows\ref\WindowsAPI.dll

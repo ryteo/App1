@@ -1,0 +1,36 @@
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.deps.json
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.pdb
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.csproj.AssemblyReference.cache
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.AssemblyInfoInputs.cache
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.AssemblyInfo.cs
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.csproj.CoreCompileInputs.cache
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\refint\DataBaseLib.dll
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.pdb
+D:\Users\kosty\Desktop\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\ref\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.deps.json
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.csproj.AssemblyReference.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.AssemblyInfoInputs.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.AssemblyInfo.cs
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.csproj.CoreCompileInputs.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\refint\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\ref\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.deps.json
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.csproj.AssemblyReference.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.AssemblyInfoInputs.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.AssemblyInfo.cs
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.csproj.CoreCompileInputs.cache
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\obj\Debug\net6.0\refint\DataBaseLib.dll
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.pdb
+C:\Users\ryteo\Desktop\Новая папка (2)\Lox\DataBaseLesson-main\App1\DataBaseLib\obj\Debug\net6.0\ref\DataBaseLib.dll
